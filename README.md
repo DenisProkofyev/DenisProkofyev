@@ -4,7 +4,7 @@
 
 <!--About me-->
 <div align="center">
-  I am <b>Denis</b>. My professional <b>background</b> revolves around:<br>💼<br>
+  My name is <b>Denis</b>. My professional <b>background</b> revolves around:<br>💼<br>
   the <b>Banking sphere</b> and <b>Trade Finance</b><br>🤝<br>
   <b>Project management</b> and experience in <b>team leadership</b><br>💻<br>
   <b>QA automation</b> using <i>Java and Python</i><br>📝<br>
