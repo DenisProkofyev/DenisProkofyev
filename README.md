@@ -4,6 +4,8 @@
 
 <!--Stats-->
 <div align="center">
+<img src="![Denis Prokofyev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisProkofyev&show_icons=true&theme=catppuccin_mocha)"
+
 <p>![Denis Prokofyev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisProkofyev&show_icons=true&theme=catppuccin_mocha)</p>
 
 <p>![codewars](https://www.codewars.com/users/DenisProkofyev/badges/small)</p>
