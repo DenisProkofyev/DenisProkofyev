@@ -1,17 +1,24 @@
 <div align="center">
-<h1>👋 Welcome!</h1> 
+<h1>👋 Welcome!<br>
+My name is 
+<a href="https://www.linkedin.com/in/denis-prokofyev"><i>Denis Prokofyev</i></h1> 
 </div>
 
 <!--About me-->
 <div align="center">
-  My name is <b>Denis</b>. My professional <b>background</b> revolves around:<br>
-  💼the <b>Banking sphere</b> and <b>Trade Finance</b><br>
+
+<h2>About</h2>
+ My professional <b>background</b> revolves around:<br>
+  💼<b>Banking sphere</b> and <b>Trade Finance</b><br>
   🤝<b>Project management</b> and experience in <b>team leadership</b><br>
   💻<b>QA automation</b> using <i>Java and Python</i><br>
   📝<b>Manual testing</b> with tools like <i>Postman</i><br>
   📊<b>SQL</b><br>
-</div>
 
+<h2>Tools</h2>
+<h2>Code and tasks examples</h2>
+
+</div>
 <!--Stats-->
 <div align="center">
 <h2>Stats</h2>
@@ -30,6 +37,10 @@
 
 <p>![codewars](https://www.codewars.com/users/DenisProkofyev/badges/small)</p>-->
 
+<div align="center">
+<h2>Hobbys</h2>
+<h2>Contacts</h2>
+</div>
 
 <!--
 Here are some ideas to get you started:
