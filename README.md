@@ -4,9 +4,10 @@
 
 <!--Stats-->
 <div align="center">
-![Denis Prokofyev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisProkofyev&show_icons=true&theme=catppuccin_mocha)
+  
+<h3>![Denis Prokofyev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisProkofyev&show_icons=true&theme=catppuccin_mocha)</h3>
 
-![codewars](https://www.codewars.com/users/DenisProkofyev/badges/small)
+<h3>![codewars](https://www.codewars.com/users/DenisProkofyev/badges/small)</h3>
 </div>
 <!--
 Here are some ideas to get you started:
