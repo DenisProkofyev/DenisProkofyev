@@ -5,9 +5,11 @@
 <!--Stats-->
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DenisProkofyev&show_icons=true&theme=catppuccin_mocha">
-<img src="https://www.codewars.com/users/DenisProkofyev/badges/small">
+  <img src="https://github-readme-stats.vercel.app/api?username=DenisProkofyev&show_icons=true&theme=catppuccin_mocha">
+  <br>
+  <img src="https://www.codewars.com/users/DenisProkofyev/badges/small">
 </div>
+
 <!--
 <p>![Denis Prokofyev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisProkofyev&show_icons=true&theme=catppuccin_mocha)</p>
 
