@@ -1,6 +1,8 @@
-# Hi there 👋
+# Welcome! 👋
 
 ![Denis Prokofyev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisProkofyev&show_icons=true&theme=catppuccin_mocha)
+
+[![codewars](https://www.codewars.com/users/DenisProkofyev/badges/small)]
 
 <!--
 **DenisProkofyev/DenisProkofyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
