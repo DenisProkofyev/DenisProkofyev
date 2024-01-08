@@ -1,12 +1,13 @@
 <div align="center">
-# Welcome! 👋
+<h1>Welcome! 👋</h1> 
 </div>
 
 <!--Stats-->
+<div align="center">
 ![Denis Prokofyev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisProkofyev&show_icons=true&theme=catppuccin_mocha)
 
 ![codewars](https://www.codewars.com/users/DenisProkofyev/badges/small)
-
+</div>
 <!--
 Here are some ideas to get you started:
 
