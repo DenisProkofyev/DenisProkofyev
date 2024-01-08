@@ -9,12 +9,12 @@
   <b>Project management</b> and experience in <b>team leadership</b><br>💻<br>
   <b>QA automation</b> using <i>Java and Python</i><br>📝<br>
   <b>Manual testing</b> with tools like <i>Postman</i><br>📊<br>
-  SQL<br><br>
+  SQL<br>
 </div>
 
 <!--Stats-->
-
 <div align="center">
+<h2>Stats</h2>
   <p>
     <b>English Certificate:</b><br>
     <a href="https://www.efset.org/cert/baS3Yr"><img src="https://cdn.efset.org/efset-widget/img/certificate_83.png" width="170" height="170"></a><br>
