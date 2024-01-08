@@ -12,7 +12,9 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=DenisProkofyev&show_icons=true&theme=catppuccin_mocha">
     <br>
-    <img src="https://www.codewars.com/users/DenisProkofyev/badges/small">
+    <a href="https://www.codewars.com/users/DenisProkofyev">
+      <img src="https://www.codewars.com/users/DenisProkofyev/badges/small">
+    </a>
   </p>
 </div>
 
