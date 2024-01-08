@@ -3,12 +3,15 @@
 </div>
 
 <!--Stats-->
+<style>
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+</style>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DenisProkofyev&show_icons=true&theme=catppuccin_mocha">
-img {
-  display: block;
-  margin: 0 auto;
-}
+
 <p>![Denis Prokofyev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisProkofyev&show_icons=true&theme=catppuccin_mocha)</p>
 
 <p>![codewars](https://www.codewars.com/users/DenisProkofyev/badges/small)</p>
