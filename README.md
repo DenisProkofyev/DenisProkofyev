@@ -4,12 +4,12 @@
 
 <!--About me-->
 <div align="center">
-  My name is <b>Denis</b>. My professional <b>background</b> revolves around:<br>💼<br>
-  the <b>Banking sphere</b> and <b>Trade Finance</b><br>🤝<br>
-  <b>Project management</b> and experience in <b>team leadership</b><br>💻<br>
-  <b>QA automation</b> using <i>Java and Python</i><br>📝<br>
-  <b>Manual testing</b> with tools like <i>Postman</i><br>📊<br>
-  SQL<br>
+  My name is <b>Denis</b>. My professional <b>background</b> revolves around:<br>
+  💼the <b>Banking sphere</b> and <b>Trade Finance</b><br>
+  🤝<b>Project management</b> and experience in <b>team leadership</b><br>
+  💻<b>QA automation</b> using <i>Java and Python</i><br>
+  📝<b>Manual testing</b> with tools like <i>Postman</i><br>
+  📊<b>SQL</b><br>
 </div>
 
 <!--Stats-->
