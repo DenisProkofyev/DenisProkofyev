@@ -4,7 +4,7 @@
 
 <!--Stats-->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DenisProkofyev&show_icons=true&theme=catppuccin_mocha"
+<img src="https://github-readme-stats.vercel.app/api?username=DenisProkofyev&show_icons=true&theme=catppuccin_mocha">
 img {
   display: block;
   margin: 0 auto;
