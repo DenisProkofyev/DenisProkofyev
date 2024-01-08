@@ -3,9 +3,10 @@
 </div>
 
 <!--Stats-->
-![Denis Prokofyev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisProkofyev&show_icons=true&theme=catppuccin_mocha)
+<div align="center">
+<p>![Denis Prokofyev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisProkofyev&show_icons=true&theme=catppuccin_mocha)</p>
 
-![codewars](https://www.codewars.com/users/DenisProkofyev/badges/small)
+<p>![codewars](https://www.codewars.com/users/DenisProkofyev/badges/small)</p>
 </div>
 <!--
 Here are some ideas to get you started:
