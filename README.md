@@ -20,29 +20,18 @@ My name is<br>
 <a href="https://www.python.org/"><img src="icons/python.png" width="30" height="30"></a>
 <a href="https://www.selenium.dev/"><img src="icons/selenium.png" width="30" height="30"></a>
 <a href="https://git-scm.com/"><img src="icons/git.png" width="30" height="30"></a>
-<a href=""><img src="icons/intellij.png" width="30" height="30"></a>
-<a href=""><img src="icons/pycharm.png" width="30" height="30"></a>
-<a href=""><img src="icons/allure.png" width="30" height="30"></a>
-<a href=""><img src="icons/devtools.png" width="30" height="30"></a>
-<a href=""><img src="icons/docker.png" width="40" height="40"></a>
-<a href=""><img src="icons/html.png" width="30" height="30"></a>
-<a href=""><img src="icons/javascript.png" width="30" height="30"></a>
-<a href=""><img src="icons/css.png" width="30" height="30"></a>
-<a href=""><img src="icons/miro.png" width="30" height="30"></a>
-<a href=""><img src="icons/notion.png" width="30" height="30"></a>
-<a href=""><img src="icons/postman.png" width="30" height="30"></a>
-<a href=""><img src="icons/soap.png" width="30" height="30"></a>
-<a href=""><img src="icons/sql.png" width="40" height="40"></a>
-<a href=""><img src="icons/testng.png" width="40" height="40"></a>
-<a href=""><img src="icons/trello.png" width="40" height="40"></a>
-<!--
-  <a href="https://www.java.com/"><img src="icons/java-original.svg" width="40"></a>
-  <a href="https://git-scm.com/"><img src="icons/git-original.svg" width="40"></a>
-  <a href="https://www.postman.com/"><img src="/icons/postman.svg" width="40"></a>
-  <a href="https://www.postgresql.org/"><img src="icons/postgresql-logo.svg" width="40"></a>
-  <a href="https://www.mysql.com/"><img src="icons/mysql-plain.svg" width="40"></a>
-  <a href="https://html.spec.whatwg.org/"><img src="icons/html5-original.svg" width="40"></a>
-  <a href="https://www.w3.org/TR/CSS/#css"><img src="icons/css3-original.svg" width="40"></a> -->
+<a href="https://www.jetbrains.com/ru-ru/idea/"><img src="icons/intellij.png" width="30" height="30"></a>
+<a href="https://www.jetbrains.com/ru-ru/pycharm/"><img src="icons/pycharm.png" width="30" height="30"></a>
+<a href="https://trello.com/"><img src="icons/trello.png" width="30" height="30"></a>
+<a href="https://www.notion.so/"><img src="icons/notion.png" width="30" height="30"></a>
+<a href="https://developer.chrome.com/docs/devtools"><img src="icons/devtools.png" width="30" height="30"></a>
+<a href="https://www.mysql.com/"><img src="icons/sql.png" width="30" height="30"></a>
+<a href="https://www.docker.com/"><img src="icons/docker.png" width="35" height="35"></a>
+<a href="https://allurereport.org/"><img src="icons/allure.png" width="30" height="30"></a>
+<a href="https://www.javascript.com/"><img src="icons/javascript.png" width="30" height="30"></a>
+<a href="https://www.postman.com/"><img src="icons/postman.png" width="30" height="30"></a>
+<a href="https://www.soapui.org/"><img src="icons/soap.png" width="30" height="30"></a>
+<a href="https://miro.com/"><img src="icons/miro.png" width="30" height="30"></a>
   
 <h2>Code and Tasks examples</h2>
 
