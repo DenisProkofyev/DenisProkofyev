@@ -17,6 +17,13 @@ My name is
 <h2>Tools</h2>
 <h2>Code and tasks examples</h2>
 
+<div align="center">
+<h2>Hobbys</h2>
+   ⚽ Football and Chess ♟<br>
+   📖 Languages learning 📬<br>
+   🎸 Music concerts trips 🗺
+</div>
+
 </div>
 <!--Stats-->
 <div align="center">
@@ -36,9 +43,6 @@ My name is
 
 <p>![codewars](https://www.codewars.com/users/DenisProkofyev/badges/small)</p>-->
 
-<div align="center">
-<h2>Hobbys</h2>
-</div>
 <div align="center">
 <h2>Contacts</h2>
  <p>
