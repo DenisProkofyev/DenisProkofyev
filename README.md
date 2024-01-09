@@ -16,7 +16,7 @@ My name is<br>
   📊<b>SQL</b><br>
 
 <h2>Tools</h2>
-<a href="https://www.selenium.dev/"><img src="icons/selenium.svg" width="40" height="40"></a>
+<a href="https://www.selenium.dev/"><img src="icons/selenium.png" width="30" height="30"></a>
 <!--
   <a href="https://www.java.com/"><img src="icons/java-original.svg" width="40"></a>
   <a href="https://git-scm.com/"><img src="icons/git-original.svg" width="40"></a>
