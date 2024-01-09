@@ -1,7 +1,8 @@
 <div align="center">
 <h1>👋 Welcome!<br>
-My name is 
-<a href="https://www.linkedin.com/in/denis-prokofyev"><i>Denis Prokofyev</i></h1> 
+My name is<br>
+<a href="https://www.linkedin.com/in/denis-prokofyev"><img src="https://img.shields.io/badge/Denis%20Prokofyev-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</h1>
 </div>
 
 <!--About me-->
