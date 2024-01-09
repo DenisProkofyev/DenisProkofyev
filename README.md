@@ -7,9 +7,8 @@ My name is
 <!--About me-->
 <div align="center">
 
-<h2>About</h2>
- My professional <b>background</b> revolves around:<br>
-  💼<b>Banking sphere</b> and <b>Trade Finance</b><br>
+<h2>Professional <b>background</b> in a nutshell</h2>
+   💼<b>Banking sphere</b> and <b>Trade Finance</b><br>
   🤝<b>Project management</b> and experience in <b>team leadership</b><br>
   💻<b>QA automation</b> using <i>Java and Python</i><br>
   📝<b>Manual testing</b> with tools like <i>Postman</i><br>
@@ -39,12 +38,18 @@ My name is
 
 <div align="center">
 <h2>Hobbys</h2>
-<h2>Contacts</h2>
 </div>
-
+<div align="center">
+<h2>Contacts</h2>
+ <p>
+   <a href="https://www.linkedin.com/in/denis-prokofyev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+   <a href="mailto:denisprokofyev@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=plastic&logo=Gmail&logoColor=white" alt="Email"></a> 
+   <a href="https://t.me/DenisProkofyev"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white" alt="Telegram"></a>
+ </p>
+</div>
 <!--
 Here are some ideas to get you started:
-
+My revolves around:<br>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
