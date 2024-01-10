@@ -35,7 +35,6 @@ My name is<br>
   
 <h2>Code and Tasks examples</h2>
 
-
    ✅<b>Java POM</b> Automation: <b>Jenkins</b><br>
    ☑<b>Python POM</b> Automation: <b>Magento</b>, <b>Openweather.org</b><br>
    ✅**User stories**<br>
@@ -44,8 +43,8 @@ My name is<br>
    ☑**SQL** queries<br>
    ✅Postman, **JSON**, XML<br>
    ☑**Linux** commands<br>
-   ✅**Coins** task
-</ul>
+   ✅<a href="https://github.com/DenisProkofyev/LogicTasks">**Logic** tasks
+
 <div align="center">
 <h2>Hobbys</h2>
    ⚽ Football and Chess ♟<br>
