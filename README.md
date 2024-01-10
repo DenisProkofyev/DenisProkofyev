@@ -14,19 +14,19 @@ My name is<br>
   💻<b>QA automation</b> using <i>Java and Python</i><br>
   📝<b>Manual testing</b> with tools like <i>Postman</i><br>
   📊<b>SQL</b><br>
-
 <h2>Tools</h2>
 <a href="https://www.java.com/"><img src="icons/java.png" width="35" height="35"></a>
 <a href="https://www.python.org/"><img src="icons/python.png" width="30" height="30"></a>
 <a href="https://www.selenium.dev/"><img src="icons/selenium.png" width="30" height="30"></a>
 <a href="https://git-scm.com/"><img src="icons/git.png" width="30" height="30"></a>
 <a href="https://www.jetbrains.com/ru-ru/idea/"><img src="icons/intellij.png" width="30" height="30"></a>
+<a href="https://www.jenkins.io/"><img src="icons/jenkins.png" width="30" height="30"></a>
 <a href="https://www.jetbrains.com/ru-ru/pycharm/"><img src="icons/pycharm.png" width="30" height="30"></a>
+<a href="https://www.mysql.com/"><img src="icons/sql.png" width="30" height="30"></a>
+<a href="https://www.docker.com/"><img src="icons/docker.png" width="35" height="35"></a>
 <a href="https://trello.com/"><img src="icons/trello.png" width="30" height="30"></a>
 <a href="https://www.notion.so/"><img src="icons/notion.png" width="30" height="30"></a>
 <a href="https://developer.chrome.com/docs/devtools"><img src="icons/devtools.png" width="30" height="30"></a>
-<a href="https://www.mysql.com/"><img src="icons/sql.png" width="30" height="30"></a>
-<a href="https://www.docker.com/"><img src="icons/docker.png" width="35" height="35"></a>
 <a href="https://allurereport.org/"><img src="icons/allure.png" width="30" height="30"></a>
 <a href="https://www.javascript.com/"><img src="icons/javascript.png" width="30" height="30"></a>
 <a href="https://www.postman.com/"><img src="icons/postman.png" width="30" height="30"></a>
@@ -35,6 +35,17 @@ My name is<br>
   
 <h2>Code and Tasks examples</h2>
 
+
+   ✅<b>Java POM</b> Automation: <b>Jenkins</b><br>
+   ☑<b>Python POM</b> Automation: <b>Magento</b>, <b>Openweather.org</b><br>
+   ✅**User stories**<br>
+   ☑Test cases<br>
+   ✅Test **design techniques**<br>
+   ☑**SQL** queries<br>
+   ✅Postman, **JSON**, XML<br>
+   ☑**Linux** commands<br>
+   ✅**Coins** task
+</ul>
 <div align="center">
 <h2>Hobbys</h2>
    ⚽ Football and Chess ♟<br>
@@ -72,6 +83,7 @@ My name is<br>
 <!--
 Here are some ideas to get you started:
 My revolves around:<br>
+https://magento.softwaretestingboard.com/
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
