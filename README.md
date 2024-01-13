@@ -40,10 +40,10 @@ My name is<br>
    ✅**User stories**<br>
    ☑Test cases<br>
    ✅Test **design techniques**<br>
-   ☑**SQL** queries<br>
+   ☑<a href="https://github.com/DenisProkofyev/SQL_Examples">**SQL** queries</a><br>
    ✅Postman, **JSON**, XML<br>
    ☑**Linux** commands<br>
-   ✅<a href="https://github.com/DenisProkofyev/LogicTasks">**Logic** tasks
+   ✅<a href="https://github.com/DenisProkofyev/LogicTasks">**Logic** tasks</a>
 
 <div align="center">
 <h2>Hobbys</h2>
