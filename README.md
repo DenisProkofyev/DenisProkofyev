@@ -37,7 +37,7 @@ My name is<br>
 
    ✅<b>Java POM</b> Automation: <b>Jenkins</b><br>
    ☑<b>Python POM</b> Automation: <b>Magento</b>, <b>Openweather.org</b><br>
-   ✅**User stories**<br>
+   ✅<a href="https://github.com/DenisProkofyev/DenisProkofyev/tree/main/userStories">**User stories**</a><br>
    ☑Test cases<br>
    ✅Test **design techniques**<br>
    ☑<a href="https://github.com/DenisProkofyev/SQL_Examples">**SQL** queries</a><br>
