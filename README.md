@@ -34,16 +34,16 @@ My name is<br>
 <a href="https://miro.com/"><img src="icons/miro.png" alt="Miro" width="30" height="30"></a>
   
 <h2>Code and Tasks examples</h2>
-
+   ☑<a href="https://github.com/DenisProkofyev/OpenCartJavaSeleniumTestngAllure">DEMO Project:</a> <b>Java, Selenium, TestNG, Allure</b> for <b>cross-platform and cross-browser</b> testing based on <b>Page Object Model</b> with Jenkins tests execution<br>
    ✅<b>Java POM</b> Automation: <b>Jenkins</b><br>
    ☑<b>Python POM</b> Automation: <b>Magento</b>, <b>Openweather.org</b><br>
-   ✅<a href="https://github.com/DenisProkofyev/DenisProkofyev/tree/main/userStories">**User stories**</a><br>
+   ✅<a href="https://github.com/DenisProkofyev/DenisProkofyev/tree/main/userStories">User stories</a><br>
    ☑<a href="https://github.com/DenisProkofyev/DenisProkofyev/tree/main/manualTestCases">Test cases</a><br>
-   ✅Test **design techniques**<br>
-   ☑<a href="https://github.com/DenisProkofyev/SQL_Examples">**SQL** queries</a><br>
-   ✅Postman, **JSON**, XML<br>
-   ☑**Linux** commands<br>
-   ✅<a href="https://github.com/DenisProkofyev/LogicTasks">**Logic** tasks</a>
+   ✅Test design techniques<br>
+   ☑<a href="https://github.com/DenisProkofyev/SQL_Examples">SQL queries</a><br>
+   ✅Postman, JSON, XML<br>
+   ☑Linux commands<br>
+   ✅<a href="https://github.com/DenisProkofyev/LogicTasks">Logic tasks</a>
 
 <div align="center">
 <h2>Hobbys</h2>
